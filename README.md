@@ -36,6 +36,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Credits
 
+- Credit to UC Berkeley Full Stack Development Bootcamp for providing the base code for this project.
 - Credit to the [mdn web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition_assignment) for information on addition assignment.
 
 ---
