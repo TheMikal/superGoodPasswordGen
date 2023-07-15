@@ -31,7 +31,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - The webpage will then generate a password for you based on you choices!
 
 
-![alt text](assets/images/screenshot.png)
+![Screenshot](assets/images/Screenshot.png)
 
 
 ## Credits
